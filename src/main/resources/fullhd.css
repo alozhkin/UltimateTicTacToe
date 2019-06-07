@@ -1,0 +1,89 @@
+.defaultbutton {
+    -fx-background-color: #CDC7B9;
+    -fx-border-width: 0;
+    -fx-background-insets: 0;
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+}
+
+.defaultpane {
+    -fx-background-color: #A7A297;
+    -fx-vgap: 10;
+    -fx-hgap: 10;
+    -fx-min-width: 260;
+    -fx-min-height: 260;
+    -fx-max-width: 260;
+    -fx-max-height: 260;
+}
+
+.motherofallpanes {
+    -fx-background-color: #A7A590;
+    -fx-vgap: 20;
+    -fx-hgap: 20;
+    -fx-padding: 10;
+}
+
+.highlightedboard {
+    -fx-background-color: #67645D;
+    -fx-vgap: 10;
+    -fx-hgap: 10;
+    -fx-min-width: 260;
+    -fx-min-height: 260;
+    -fx-max-width: 260;
+    -fx-max-height: 260;
+}
+
+.menu {
+    -fx-background-color: #DCD7D2
+}
+
+.player1button {
+    -fx-background-image: url(krestik80.png);
+    -fx-background-color: black;
+    -fx-border-width: 0;
+    -fx-background-insets: 0;
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+}
+
+.player2button {
+    -fx-background-image: url(nolik80.png);
+    -fx-border-width: 0;
+    -fx-background-insets: 0;
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+}
+
+.highlightedplayer1button {
+    -fx-border-color: #891D2D;
+    -fx-background-image: url(krestik80.png);
+    -fx-border-width: 5;
+    -fx-background-insets: 0;
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+}
+
+.highlightedplayer2button {
+    -fx-border-color: #891D2D;
+    -fx-background-image: url(nolik80.png);
+    -fx-border-width: 5;
+    -fx-background-insets: 0;
+    -fx-min-width: 80;
+    -fx-min-height: 80;
+}
+
+.player1winningpane {
+    -fx-background-image: url(krestik260.png);
+    -fx-min-width: 260;
+    -fx-min-height: 260;
+    -fx-max-width: 260;
+    -fx-max-height: 260;
+}
+
+.player2winningpane {
+    -fx-background-image: url(nolik260.png);
+    -fx-min-width: 260;
+    -fx-min-height: 260;
+    -fx-max-width: 260;
+    -fx-max-height: 260;
+}
